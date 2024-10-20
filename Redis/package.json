@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "ioredis": "^5.4.1"
   }
 }
